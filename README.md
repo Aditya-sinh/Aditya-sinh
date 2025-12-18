@@ -16,10 +16,10 @@
 ## 🛠️ Tech Stack
 
 **Languages:** C++, Python, JavaScript
-**Frontend:** React, Tailwind CSS
+**Frontend:** React, Tailwind CSS, Next.js
 **Backend:** FastAPI, Express.js, Node.js
-**Databases:** MySQL, Supabase
-**Other:** Git, GitHub, Firebase, SQL
+**Databases:** SQL, Supabase, Firebase
+**Other:** Git, GitHub
 
 ---
 
